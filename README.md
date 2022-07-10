@@ -13,14 +13,8 @@ Please also look at the instructions under the "Base Items" header.
 # Table of Contents
 1. [Installation](https://github.com/WolfieeifloW/pd2filter#installation)
 1. [Loot Filters](https://github.com/WolfieeifloW/pd2filter#loot-filters)
-   * [Detailed](https://github.com/WolfieeifloW/pd2filter#detailed)
-   * [Revealed](https://github.com/WolfieeifloW/pd2filter#revealed)
-   * [Vanilla](https://github.com/WolfieeifloW/pd2filter#vanilla)
-   * [Wolfie](https://github.com/WolfieeifloW/pd2filter#wolfie)
    * [BTNeandertha1](https://github.com/WolfieeifloW/pd2filter#btneandertha1)
-   * [Template](https://github.com/WolfieeifloW/pd2filter#template)
 1. [Pictures](https://github.com/WolfieeifloW/pd2filter#pictures)
-1. [Discord](https://github.com/WolfieeifloW/pd2filter#discord)
 1. [Donations](https://github.com/WolfieeifloW/pd2filter#donations)
 1. [Informative Links](https://github.com/WolfieeifloW/pd2filter#informative-links)
 1. [Common Issues](https://github.com/WolfieeifloW/pd2filter#common-issues)
@@ -49,47 +43,18 @@ The launcher will automatically grab the newest version of your selected filter 
 If it worked a Minor Health Potion should now say *HP1*.
 
 # Loot Filters  
-### [Detailed](https://raw.githubusercontent.com/WolfieeifloW/pd2filter/main/detailed.filter)  
+### [ElPocoBurrito's BTNeandertha1 fork](https://raw.githubusercontent.com/WolfieeifloW/pd2filter/main/btneandertha1.filter)  
 CTRL+click the above link for the raw code.  
-**Select this version if you are uncomfortable with needing to write your own filter lines.** This version has lines for every single item in the game and is **massively** commented to make it very, very easy to edit to your liking. This is for ease-of-use and very quick editing as you should ideally only ever have to comment or uncomment a line (add or remove //). This version will show and notify a lot of items by default with the idea that you can slowly start to comment out things you don't need. The flip side is that since this filter contains lines for every item you can easily just uncomment a line for things you want to show that aren't currently showing.
+This is a tweaked version of Wolfie's BTNeadertha1 loot filter. It will only contain features that i want for myself, as it is primarily made for my personal use. I will happily provide fixes if anything is broken and if you want help or have any questions, you are more than welcome to ping me in PD2's #lootfilter channel or send me a DM at ElPocoBurrito#0001 on discord.
 
-### [Revealed](https://raw.githubusercontent.com/WolfieeifloW/pd2filter/main/revealed.filter)  
-CTRL+click the above link for the raw code.  
-**Select this version if you want to know what Set and Unique item you've dropped without ID'ing it.** This version is based off of Detailed but will show you the name of Set and Unique items when they drop before you've ID'd them. For example if a Unique Shako drops it will say "Shako [Harlequin Crest]". Being based off of Detailed means it still has lines for every single item in the game and is **massively** commented to make it very, very easy to edit to your liking.
-
-### [Vanilla](https://raw.githubusercontent.com/WolfieeifloW/pd2filter/main/vanilla.filter)  
-CTRL+click the above link for the raw code.  
-**Select this version if you want to see almost everything but still have some QoL features.** This version will only hide *true* junk and show literally everything else. The *only* things being hidden in this version are low level gems, ears, inf items, NMAG quivers, gold, keys, low potions, and scrolls. Everything else is shown. It still keeps QoL things such as crafting recipes, shortened potion names, possible RWs, etc on items.
-
-### [Wolfie](https://raw.githubusercontent.com/WolfieeifloW/pd2filter/main/wolfie.filter)  
-CTRL+click the above link for the raw code.  
-**This version is a copy of my own personal filter.** It is semi-strict while still working while leveling. No support will be given for this filter. Please only report items that are completely wrong.
-
-### [BTNeandertha1](https://raw.githubusercontent.com/WolfieeifloW/pd2filter/main/btneandertha1.filter)  
-CTRL+click the above link for the raw code.  
+Original description by Wolfie:
 This is a custom-made version for [BTNeandertha1](https://www.twitch.tv/btneandertha1) which is quite strict. No support will be given for this version.
 
-### [Template](https://raw.githubusercontent.com/WolfieeifloW/pd2filter/main/template.filter)  
-CTRL+click the above link for the raw code.  
-**Select this version if you want a template/base to start from for creating your own filter.** This filters purpose is to help people get a start on building their own filter. No support will be given for this filter, you assume all responsibility for creating and editing it to your liking.
-
-# Pictures
-Some things may have changed since these images were taken but these give a general idea of how things look. For even more images please visit my [Reddit thread](https://www.reddit.com/r/ProjectDiablo2/comments/kokwu0/wolfieeiflows_pd2_filters/)!
-
-**Detailed:**  
-![00_GroundDetailed](https://user-images.githubusercontent.com/40577712/110947461-31031b00-830e-11eb-8ea2-bfd0bf65613f.png)
-
-**Wolfie:**  
-![00_GroundWolfie](https://user-images.githubusercontent.com/40577712/110947471-3496a200-830e-11eb-988a-20c9d86049fb.png)
-
 # Discord
-Discord link: [WolfieeifloW's Diablo II Projects](https://discord.gg/6bM8AtYGAq)  
-I've created a Discord for my filter so that you can get pinged when there's an update so you can know when to grab the new update in the launcher!
+Please dont ask Wolfie for help about my filter in his discord. Either ask for help in #lootfilter or to me directly.
 
 # Donations
-Donation link: [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=9JARHKMQ9UU3S&item_name=Project+Diablo+2+Loot+Filter&currency_code=CAD)  
-Donations are not required in any way but I very much appreciate all who support me in this fashion!  
-If you wish you can get the "Donator" role in my [Discord](https://github.com/WolfieeifloW/pd2filter#discord) as well!
+If you like my filter and wish to donate, i'd recommend you donate to Wolfie instead, not me, as a large portion of this filter is from him and he does alot of work to help everyone on PD2 by managing filters. Here is a link to his GitHub where you can find his donation links: [Github - Donation links](https://github.com/WolfieeifloW/lodfilter)
 
 # Informative Links
 * **Reddit Thread:** <https://www.reddit.com/r/ProjectDiablo2/comments/kokwu0/wolfieeiflows_pd2_filters/>
@@ -140,11 +105,6 @@ These are the common problems that people seem to run into. Please check each of
    * Vanilla is zero strictness, Detailed/Revealed are less strict, Wolfie is stricter, and BT is strictest
 
 # Extras  
-### [PlugY.ini](https://raw.githubusercontent.com/WolfieeifloW/pd2filter/main/PlugY.ini)  
-CTRL+click the above link for the raw code.  
-Has all required changes to make the game work (world event, ubers, etc) plus has settings to properly place the buttons in the PlugY stash *and* the gold amount hover  
-### [ddraw.ini](https://raw.githubusercontent.com/WolfieeifloW/pd2filter/main/ddraw.ini)  
-All proper settings to run 1600x900 borderless windowed mode  
 ### [_LOD_SharedStashSave.sss](https://github.com/WolfieeifloW/pd2filter/raw/main/_LOD_SharedStashSave.sss)  
 Has an empty shared stash that has all named tabs for some *chefs kiss* organization
 
